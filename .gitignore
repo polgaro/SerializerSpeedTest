@@ -12,3 +12,6 @@
 /SerializerSpeedTest.SystemJson/obj/Debug/netcoreapp3.1
 /SerializerSpeedTest.SystemJson/obj
 /.vs
+/SerializerSpeedTest.Entities/bin/Release/netstandard2.0
+/SerializerSpeedTest.Newtonsoft/bin/Release/netcoreapp3.1
+/SerializerSpeedTest.SystemJson/bin/Release/netcoreapp3.1
